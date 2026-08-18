@@ -1,4 +1,15 @@
 {
-  "updatedAt": "2026-08-12T11:49:07.103Z",
-  "clients": []
+  "updatedAt": "2026-08-18T09:34:32.375Z",
+  "autoUpdate": true,
+  "channel": "stable",
+  "clients": [
+    {
+      "name": "Anmol's Mac",
+      "key": "F33EB4CF9CD801BD02C6C0AC2A3BCC2A80E85653:601A83A314C357FCFFBF5AC03B505A70A8A83C4BEBDFAEE581BC2DD96509366E",
+      "machineId": "F33EB4CF9CD801BD02C6C0AC2A3BCC2A80E85653",
+      "isBlocked": false,
+      "blockedAt": null,
+      "message": ""
+    }
+  ]
 }
