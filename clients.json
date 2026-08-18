@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-18T11:30:34.188Z",
+  "updatedAt": "2026-08-18T11:45:32.119Z",
   "autoUpdate": true,
   "channel": "stable",
   "clients": [
@@ -15,9 +15,9 @@
       "name": "KCD",
       "key": "07C61B91EAB381809AF6A3AA0FEBC3595A7826DB:MSYKUN5O:MT8KXLTO:5EFEF69449C616C7CDDB7049CB96D5E8",
       "machineId": "07C61B91EAB381809AF6A3AA0FEBC3595A7826DB",
-      "isBlocked": false,
-      "blockedAt": null,
-      "message": ""
+      "isBlocked": true,
+      "blockedAt": "2026-08-18T11:44:54.120Z",
+      "message": "Payment pending"
     }
   ]
 }
