@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-18T11:45:32.119Z",
+  "updatedAt": "2026-08-20T15:34:19.157Z",
   "autoUpdate": true,
   "channel": "stable",
   "clients": [
@@ -18,6 +18,14 @@
       "isBlocked": true,
       "blockedAt": "2026-08-18T11:44:54.120Z",
       "message": "Payment pending"
+    },
+    {
+      "name": "Guru Maharaj Ayushi",
+      "key": "98C82F5ECA5659665795803F50F16C3F03A5EE92:MT1OKD5P:MU8JRX5P:1A1782E60FFD7A85BCF6187B7CF509AA",
+      "machineId": "98C82F5ECA5659665795803F50F16C3F03A5EE92",
+      "isBlocked": false,
+      "blockedAt": null,
+      "message": ""
     }
   ]
 }
