@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-25T11:48:25.854Z",
+  "updatedAt": "2026-08-25T12:48:20.535Z",
   "autoUpdate": true,
   "channel": "stable",
   "clients": [
@@ -12,12 +12,12 @@
       "message": ""
     },
     {
-      "name": "Unnamed",
+      "name": "KCD",
       "key": "07C61B91EAB381809AF6A3AA0FEBC3595A7826DB:MT8LO04P:MUFGVK4P:6375629A2C7F2D0C46F9A6CE6BB6248F",
       "machineId": "07C61B91EAB381809AF6A3AA0FEBC3595A7826DB",
-      "isBlocked": true,
-      "blockedAt": "2026-08-18T11:44:54.120Z",
-      "message": "Payment pending"
+      "isBlocked": false,
+      "blockedAt": null,
+      "message": ""
     },
     {
       "name": "Guru Maharaj Ayushi",
