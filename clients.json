@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-25T12:48:20.535Z",
+  "updatedAt": "2026-09-20T14:26:38.935Z",
   "autoUpdate": true,
   "channel": "stable",
   "clients": [
@@ -21,7 +21,7 @@
     },
     {
       "name": "Guru Maharaj Ayushi",
-      "key": "98C82F5ECA5659665795803F50F16C3F03A5EE92:MT1OKD5P:MU8JRX5P:1A1782E60FFD7A85BCF6187B7CF509AA",
+      "key": "98C82F5ECA5659665795803F50F16C3F03A5EE92:MTKACIKY:0:549E85F543F912C04C9595730706CC23",
       "machineId": "98C82F5ECA5659665795803F50F16C3F03A5EE92",
       "isBlocked": false,
       "blockedAt": null,
